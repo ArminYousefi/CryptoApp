@@ -1,0 +1,2 @@
+Alias: cryptoApp
+pass : 123456
